@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Game Development and Machine Learning**
 
-- 📫 How to reach me **andrewzlwang@outlook.com**
+- 📫 You can reach me at **andrewzlwang@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
