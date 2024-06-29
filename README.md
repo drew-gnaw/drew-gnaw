@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andrew Wang</h1>
-<h3 align="center">I'm a Second-Year student at UBC, pursuing a combined major in Computer Science and Mathematics.</h3>
+<h3 align="center">I'm a Third-Year student at UBC, pursuing a combined major in Computer Science and Mathematics.</h3>
 
 - 🔭 I’m currently working on a top-down 2D RPG, [Wastelanders](https://github.com/anjx123/Wastelanders), and a chess engine, [Passantheon](https://github.com/drew-gnaw/Passantheon)
 
