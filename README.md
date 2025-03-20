@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andrew Wang</h1>
 <h3 align="center">I'm a Third-Year student at UBC, pursuing a combined major in Computer Science and Mathematics.</h3>
 
-- 🔭 I’m currently working on a top-down 2D RPG, [Wastelanders](https://github.com/anjx123/Wastelanders), and a Combat-focused Metroidvania, [Omnia](https://github.com/drew-gnaw/Omnia)
+- 🔭 I’m currently leading development on a Combat-focused Metroidvania, [Omnia](https://github.com/drew-gnaw/Omnia), and working on a top-down 2D RPG, [Wastelanders](https://github.com/anjx123/Wastelanders).
 
 - 🌱 I’m currently learning **Game Development and Machine Learning**
 
